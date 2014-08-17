@@ -1,0 +1,9 @@
+name: ChatPlus
+version: 0.1-Acme
+author: AcmeProject
+main: net.poweredbyhate.chatplus.ChatPlus
+commands:
+    chat:
+        usage: /<command> mute|unmute
+        description: mutes/unmutes chat
+        permission: chat.mute
